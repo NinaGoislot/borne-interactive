@@ -1,0 +1,210 @@
+[{
+        "id": "EXPO01",
+        "name": "MLab",
+        "description": "Explorez \"MLab\" : une plongée fascinante dans le monde de l'intelligence artificielle et de l'apprentissage automatique. Découvrez comment ces technologies révolutionnent notre quotidien à travers des démonstrations interactives et des installations inspirantes. Une expérience incontournable pour les curieux de la technologie et de l'avenir.",
+        "price": 19,
+        "pictures": [
+            "mlab-numerisation-3d.jpeg",
+            "mlab-prototype-re-ak.jpeg",
+            "mlab-test-employes.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "1 h 20 min",
+        "attendance": 80,
+        "infos": ""
+    },
+    {
+        "id": "EXPO02",
+        "name": "Unique en son genre",
+        "description": "Plongez dans l'exposition \"Unique en son genre\" et explorez la beauté de la diversité. Cette exposition captivante célèbre la nature humaine et promeut l'acceptation de soi, en mettant en lumière les expériences LGBTQ+ à travers l'art, la culture et les récits personnels. Une expérience émouvante et inspirante qui invite à la réflexion sur l'importance de la tolérance et de l'amour inconditionnel.",
+        "price": 20,
+        "pictures": [
+            "unique-genre-allee-portraits.jpeg",
+            "unique-genre-enseignes-bar.jpeg",
+            "unique-genre-papillons.jpeg",
+            "unique-genre-portraits-historiques.jpeg",
+            "unique-genre-veste-queer-power.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "45 min",
+        "attendance": 52,
+        "infos": ""
+    },
+    {
+        "id": "EXPO03",
+        "name": "Ma maison",
+        "description": "Plongez dans l'univers enchanté de \"Ma Maison\" où l'éveil des enfants est au cœur de l'expérience. Cette exposition captivante invite les petits explorateurs à découvrir le monde qui les entoure à travers des activités ludiques, des jeux interactifs et des découvertes sensorielles. Une aventure immersive qui nourrit la curiosité des tout-petits tout en encourageant leur créativité et leur apprentissage. Venez créer des souvenirs précieux en famille au sein de \"Ma Maison\".",
+        "price": 15,
+        "pictures": [
+            "ma-maison-course-fille-jardin.jpeg",
+            "ma-maison-ecouter-observer-1.jpeg",
+            "ma-maison-enfants-salle-bain-1.jpeg",
+            "ma-maison-fille-graffiti-numerique.jpeg",
+            "ma-maison-maman-enfants-salon-1.jpeg",
+            "ma-maison-papa-enfants-gateau.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "50 min",
+        "attendance": 37,
+        "infos": ""
+    },
+    {
+        "id": "EXPO04",
+        "name": "Nature inspirante, techno inspirée",
+        "description": "Explorez \"Nature Inspirante, Techno Inspirée\" : une exposition captivante qui marie la beauté de la nature à l'innovation technologique. Découvrez comment la nature inspire la création de technologies novatrices. Une expérience qui vous fera réfléchir sur notre capacité à apprendre de la nature pour un avenir durable.",
+        "price": 22,
+        "pictures": [
+            "nature-inspirante-citation-einstein.jpeg",
+            "nature-inspirante-fille-microscope.jpeg",
+            "nature-inspirante-jeune-fille-test.jpeg",
+            "nature-inspirante-jeunes-filles-tgv.jpeg",
+            "nature-inspirante-vue-salle.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "1 h 05 min",
+        "attendance": 63,
+        "infos": ""
+    },
+    {
+        "id": "EXPO05",
+        "name": "La vie en vert",
+        "description": "Découvrez \"La Vie en Vert\" : une exposition captivante dédiée à l'environnement et à la durabilité. Explorez comment le vert guide notre mode de vie et notre avenir à travers des expositions interactives et des démonstrations inspirantes. Une expérience qui vous invite à réfléchir sur notre responsabilité envers la planète.",
+        "price": 18,
+        "pictures": [
+            "vie-en-vert-bouteilles-parfum.jpeg",
+            "vie-en-vert-souris-verte.jpeg",
+            "vie-en-vert-vitrine.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "45 min",
+        "attendance": 44,
+        "infos": ""
+    },
+    {
+        "id": "EXPO06",
+        "name": "René Lévesque",
+        "description": "Plongez dans l'univers de \"René Lévesque\" : une exposition captivante qui explore en profondeur la vie et l'influence politique de cette personnalité marquante. Découvrez son héritage à travers des expositions captivantes et des récits inspirants qui mettent en lumière son rôle crucial dans l'histoire. Une expérience inoubliable pour mieux comprendre le monde politique du Québec.",
+        "price": 15,
+        "pictures": [
+            "rene-levesque-art-caricature-1.jpeg",
+            "rene-levesque-visiteur-pq.jpeg",
+            "rene-levesque-visiteurs-archives-1.jpeg",
+            "rene-levesque-visiteurs-boxe-micro-1.jpeg",
+            "rene-levesque-visiteurs-salle-1.jpeg"
+        ],
+        "quantity": 0,
+        "alt": "Photographies de l'exposition",
+        "duration": "55 min",
+        "attendance": 76,
+        "infos": ""
+    },
+    {
+        "id": "GUI01",
+        "name": "Guide des expositions - Audio",
+        "description": "Explorez votre exposition avec notre guide audio. Mettez un casque et laissez-vous guider à travers des explications fascinantes, des récits inspirants et des démonstrations interactives. Profitez au maximum de votre visite !",
+        "price": 10,
+        "pictures": [
+            "guide_audio_02.jpeg"
+        ],
+        "alt": "Illustration du guide audio proposé",
+        "duration": "",
+        "attendance": "",
+        "infos": ""
+    },
+    {
+        "id": "GUI03",
+        "name": "Guide des expositions - Accompagnateur",
+        "description": "Suivez votre exposition avec un guide dédié. Laissez vous porter par des explications captivantes, des récits inspirants et des démonstrations interactives. Notre personnel sera ravi de rendre votre expérience inoubliable !",
+        "price": 15,
+        "pictures": [
+            "tour_guide.jpeg"
+        ],
+        "alt": "Illustration de la visite guidée proposée",
+        "duration": "",
+        "attendance": "",
+        "infos": ""
+    },
+    {
+        "id": "BOO01",
+        "name": "Livre souvenir - Album",
+        "description": "Plongez dans un voyage visuel à travers les saisons avec notre livre souvenir \"À travers les saisons\". Ce recueil captivant capture la beauté changeante de la nature au fil de l'année, de la splendeur des paysages d'hiver à la renaissance de la vie au printemps, de la chaleur de l'été à la mélancolie de l'automne. Chaque page est une invitation à la contemplation et à la réflexion, illustrant la magie de chaque saison. Un compagnon idéal pour revivre vos moments préférés tout au long de l'année.",
+        "price": 25,
+        "pictures": [
+            "album.jpeg"
+        ],
+        "alt": "Photo produit du livre souvenir version album",
+        "duration": "",
+        "attendance": "",
+        "infos": ""
+    },
+    {
+        "id": "BOO02",
+        "name": "Livre souvenir - Album",
+        "description": "Immortalisez vos moments précieux avec notre livre souvenir \"Moments Inoubliables\". Ce recueil exclusif vous permet de revivre vos souvenirs les plus chers à travers une collection de photos émouvantes et de légendes personnelles. Que ce soit des vacances en famille, des célébrations spéciales ou des aventures inoubliables, ce livre est le moyen parfait de préserver vos précieux souvenirs pour les générations futures. Un trésor à chérir et à partager avec vos proches.",
+        "price": 25,
+        "pictures": [
+            "album_02.jpeg"
+        ],
+        "alt": "Photo produit du livre souvenir version album",
+        "duration": "",
+        "attendance": "",
+        "infos": ""
+    },
+    {
+        "id": "BOO03",
+        "name": "Livre souvenir - Coffret",
+        "description": "Plongez dans un voyage émotionnel à travers les saisons et les souvenirs avec notre coffret. Ce coffret exclusif combine deux livres souvenirs uniques en leur genre : \"À travers les Saisons\" et \"Moments Inoubliables\".",
+        "price": 58,
+        "pictures": [
+            "coffret.jpeg"
+        ],
+        "alt": "Photo produit du livre souvenir version coffret",
+        "duration": "",
+        "attendance": "",
+        "infos": "Ce coffret contient 2 albums + 1 bloc note du Musée l'explorateur"
+    },
+    {
+        "id": "BOO04",
+        "name": "Livre souvenir - Coffret",
+        "description": "Explorez les moments inoubliables de notre exposition à travers ce coffret exclusif d'albums captivants. Chaque album capture une facette unique de l'événement, des moments artistiques aux découvertes fascinantes. Un souvenir inestimable à chérir pour revivre l'exposition à volonté.",
+        "price": 58,
+        "pictures": [
+            "coffret_02.jpeg"
+        ],
+        "alt": "Photo produit du livre souvenir version coffret",
+        "duration": "",
+        "attendance": "",
+        "infos": "Ce coffret contient 4 albums"
+    },
+    {
+        "id": "FOO01",
+        "name": "Repas - Collation",
+        "description": "Savourez une délicieuse collation tout en profitant de l'exposition. Parfait pour une petite pause gourmande à tout moment de la journée. Présentez vous, muni de votre ticket, au stand du hall principal avant 18h pour récupérer votre collation.",
+        "price": 15,
+        "pictures": [
+            "collation.jpeg"
+        ],
+        "alt": "Photo produit de la collation proposée",
+        "duration": "",
+        "attendance": "",
+        "infos": "Une grande partie de nos collations à boire contiennent du lactose."
+    },
+    {
+        "id": "FOO02",
+        "name": "Repas - Souper",
+        "description": "Profitez d'un souper complet, une expérience culinaire exceptionnelle pour conclure la journée. Le repas est disponible au restaurant du hall central. Il vous sera servit sous présentation de votre ticket entre 16h30 et 19h.",
+        "price": 35,
+        "pictures": [
+            "repas.jpeg"
+        ],
+        "alt": "Photographie du repas proposé",
+        "duration": "",
+        "attendance": "",
+        "infos": "Le souper est adapté aux végétariens et aux consommateurs de viande Hallal. Vous pourrez en faire la demande lors de votre arrivée."
+    }
+]
